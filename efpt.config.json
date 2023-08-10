@@ -1,0 +1,127 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "ITI_LibraySystemContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Contexts",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "ITI_Libraly_Api",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[tbl_borrow_details]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_book]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_bookdetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_borrow]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_category]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_employee]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_import]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_import_details]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_location]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_position]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_read]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_read_details]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_return]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_return_read_details]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_returndeltails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_status]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_student]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_supplyer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_iti_user]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_national]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_return_read]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_time_type]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_use_logintime]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "IT-SESHEA.ITI_LibraySystem",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
