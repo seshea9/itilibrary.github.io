@@ -1,0 +1,903 @@
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+E:\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+E:\ITI_Library_Project\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api(09-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(12-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\BarcodeStandard.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api(14-06-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\BarcodeStandard.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\BarcodeStandard.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\BarcodeStandard.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (25-07-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\BarcodeStandard.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+C:\Users\SESHEA\Desktop\ITI_Libraly_Api (04-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\BarcodeStandard.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\System.Web.Http.SelfHost.dll
+C:\Users\PRC\Desktop\ITI_Libraly_Api (05-08-2023)\ITI_Libraly_Api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.Development.json
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\appsettings.json
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\efpt.config.json
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.staticwebassets.runtime.json
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.exe
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.deps.json
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.runtimeconfig.json
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\ITI_Libraly_Api.pdb
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Aspose.Imaging.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Core.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\BarcodeStandard.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Humanizer.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.Web.Http.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.Web.Http.SelfHost.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.AssemblyReference.cache
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfoInputs.cache
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.AssemblyInfo.cs
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CoreCompileInputs.cache
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cs
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.MvcApplicationPartsAssemblyInfo.cache
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ITI_Libraly_Api.props
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITI_Libraly_Api.props
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITI_Libraly_Api.props
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\scopedcss\bundle\ITI_Libraly_Api.styles.css
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.csproj.CopyComplete
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\refint\ITI_Libraly_Api.dll
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.pdb
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ITI_Libraly_Api.genruntimeconfig.cache
+E:\My Project\iti_library_api\ITI_Libraly_Api\obj\Debug\net7.0\ref\ITI_Libraly_Api.dll

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\My Project\\iti_library_api\\ITI_Libraly_Api\\wwwroot\\images\\string_string.jpg",
+      "PackagePath": "staticwebassets\\images\\string_string.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ITI_Libraly_Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ITI_Libraly_Api.props",
+      "PackagePath": "build\\ITI_Libraly_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ITI_Libraly_Api.props",
+      "PackagePath": "buildMultiTargeting\\ITI_Libraly_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ITI_Libraly_Api.props",
+      "PackagePath": "buildTransitive\\ITI_Libraly_Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

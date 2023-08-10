@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "nYJTHDbmTOw9C3y80BjuSncev40QfCtKb/iohvXggPI=",
+  "Source": "ITI_Libraly_Api",
+  "BasePath": "_content/ITI_Libraly_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ITI_Libraly_Api\\wwwroot",
+      "Source": "ITI_Libraly_Api",
+      "ContentRoot": "E:\\My Project\\iti_library_api\\ITI_Libraly_Api\\wwwroot\\",
+      "BasePath": "_content/ITI_Libraly_Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\My Project\\iti_library_api\\ITI_Libraly_Api\\wwwroot\\images\\string_string.jpg",
+      "SourceId": "ITI_Libraly_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\My Project\\iti_library_api\\ITI_Libraly_Api\\wwwroot\\",
+      "BasePath": "_content/ITI_Libraly_Api",
+      "RelativePath": "images/string_string.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\string_string.jpg"
+    }
+  ]
+}
